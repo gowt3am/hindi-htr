@@ -1,0 +1,17 @@
+Data will be organized as
+
+data/
+   CALAM_Dataset/
+          ProcessedCALAM/
+               *Unicode named folders, but all are binary*
+          SegregatedCALAM/
+               *Unicode named folders*
+   IIITH_Words/
+         *Their entire dataset*
+   MNIT_Dataset/
+           Documents/
+                *Their dataset*
+           Words/
+                *Our segmented real words*
+   Synth_Dataset/
+           *Will have GenWords folders and their label files*
